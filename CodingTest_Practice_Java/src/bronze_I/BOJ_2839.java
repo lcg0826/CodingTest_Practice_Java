@@ -15,7 +15,7 @@ public class BOJ_2839 {
 		while(true) {
 			if(n % 5 == 0) {
 				hap += n / 5;
-				System.out.println(hap);  
+				System.out.println(hap);   
 				break;
 			} else {
 				n -= 3;
