@@ -15,7 +15,7 @@ public class BOJ_11004 {
 		
 		int[] sortArr = new int[n];
 		
-		for ( int i = 0; i < n; i++) {
+		for ( int i = 0; i < n; i++) { 
 			sortArr[i] = sc.nextInt();
 		}
 		
