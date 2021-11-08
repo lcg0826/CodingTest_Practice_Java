@@ -7,4 +7,8 @@
 | 2021-10-17 | Sliver 5 | BOJ | 2609 '최대공약수와 최고송배수' | https://www.acmicpc.net/problem/2609 |
 | 2021-10-18 | Bronze 1 | BOJ | 2750 '수 정렬하기' | https://www.acmicpc.net/problem/2750 |
 | 2021-10-20 | Sliver 5 | BOJ | 1427 '소트인사이트' | https://www.acmicpc.net/problem/1427 |
+| 2021-10-21 | Silver 5 | BOJ | 2751 '수 정렬하기 2' | https://www.acmicpc.net/problem/2751 |
+| 2021-10-24 | Bronze 1 | BOJ | 1924 '2007' | https://www.acmicpc.net/problem/1924 |
 | 2021-10-28 | Sliver 5 | BOJ | 10989 '수 정렬하기 3' | https://www.acmicpc.net/problem/10989 |
+| 2021-10-31 | Bronze 1 | BOJ | 1157 '단어공부' | https://www.acmicpc.net/problem/1157 |
+| 2021-11-08 | Bronze 1 | BOJ | 2869 '달팽이는 올라간다' | https://www.acmicpc.net/problem/2869 |
