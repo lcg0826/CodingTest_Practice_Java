@@ -1,4 +1,4 @@
-| Date | Class | Site | Problem | Link | Tear |
+| Date | Class | Site | Problem | Link | Tag |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 2021-10-11 | Bronze 1 | BOJ | 1032 '명령 프롬프트' | https://www.acmicpc.net/problem/1032 |
 | 2021-10-12 | Bronze 1 | BOJ | 1268 '임시 반장 선거' | https://www.acmicpc.net/problem/1268 |
@@ -13,3 +13,4 @@
 | 2021-10-31 | Bronze 1 | BOJ | 1157 '단어공부' | https://www.acmicpc.net/problem/1157 |
 | 2021-11-08 | Bronze 1 | BOJ | 2869 '달팽이는 올라간다' | https://www.acmicpc.net/problem/2869 |
 | 2021-11-14 | Bronze 1 | BOJ | 10998 '팰린드롬인지 확인하기' | https://www.acmicpc.net/problem/10998 |
+| 2021-11-17 | Bronze 1 | BOJ | 11050 '이항 계수 1' | https://www.acmicpc.net/problem/11050 | 구현
