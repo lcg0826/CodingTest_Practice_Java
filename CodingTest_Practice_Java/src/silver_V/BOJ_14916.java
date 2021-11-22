@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 // 거스름돈
 // 14916
-// https://www.acmicpc.net/problem/14916
+// https://www.acmicpc.net/problem/14916 
 public class BOJ_14916{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
