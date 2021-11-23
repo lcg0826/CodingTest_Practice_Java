@@ -14,4 +14,6 @@
 | 2021-11-08 | Bronze 1 | BOJ | 2869 '달팽이는 올라간다' | https://www.acmicpc.net/problem/2869 |
 | 2021-11-14 | Bronze 1 | BOJ | 10998 '팰린드롬인지 확인하기' | https://www.acmicpc.net/problem/10998 |
 | 2021-11-17 | Bronze 1 | BOJ | 11050 '이항 계수 1' | https://www.acmicpc.net/problem/11050 | 구현
-| 2021-11-20 | Silver 5 | BOJ | 11050 'BABBA' | https://www.acmicpc.net/problem/9625 | DP
+| 2021-11-20 | Silver 5 | BOJ | 9625 'BABBA' | https://www.acmicpc.net/problem/9625 | DP
+| 2021-11-22 | Silver 5 | BOJ | 14916 '거스름돈' | https://www.acmicpc.net/problem/14916 | DP
+| 2021-11-22 | Silver 5 | BOJ | 9655 '돌 게임' | https://www.acmicpc.net/problem/9655 | DP
